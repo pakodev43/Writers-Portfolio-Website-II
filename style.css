@@ -845,7 +845,7 @@ a{
 
 .footer_logo{
     font-family: var(--font-quaternary);
-    font-size: 1.2rem;
+    font-size: .5rem;
     letter-spacing: 2px;
 }
 

@@ -75,15 +75,15 @@ body{
     color: var(--bg-darkest);
     font-family: var(--font-secondary);
     background-color: var(--main-new);
+}
 
-    ul{
-        list-style: none;
-    }
+ul{
+    list-style: none;
+}
 
-    a{
-        color: inherit;
-        text-decoration: none;
-    }
+a{
+    color: inherit;
+    text-decoration: none;
 }
 
 .section, .hero, .header{
